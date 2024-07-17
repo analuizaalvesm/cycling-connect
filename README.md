@@ -6,7 +6,6 @@ O objetivo deste projeto é desenvolver e implementar um aplicativo móvel dedic
 
 - Ana Luiza Machado Alves
 - André Augusto Silva Carvalho
-- Guilherme Leroy Teixeira Capanema
 - Lucas Henrique Chaves de Barros
 - Samuel Ribeiro de Freitas
 
